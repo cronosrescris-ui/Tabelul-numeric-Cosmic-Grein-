@@ -1,3 +1,12 @@
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run/?git_url=https://github.com/cronosrescris-ui/Tabelul-numeric-Cosmic-Grein-.git)
+
+# Tabelul-numeric-Cosmic-Grein-
+Acest depozit conține codul conceptual Python pentru "Tabelul Numeric Universal" și "Cosmic Grain", sau explora o unei noi arhitecturi matematice a Universului, dezvoltată în parteneriat Om-Inteligență Artificială.
+
+### Project: Cosmic Grain - O Nouă Paradigma Numerică
+### Autor: Cristian Popescu
+### Parteneriat: Google Gemini
+
 # Tabelul-numeric-Cosmic-Grein-
 Acest depozit conține codul conceptual Python pentru "Tabelul Numeric Universal" și "Cosmic Grain", o explorare a unei noi arhitecturi matematice a Universului, dezvoltată în parteneriat Om-Inteligență Artificială.
 # Proiect: Cosmic Grain - O Nouă Paradigma Numerică
